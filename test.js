@@ -1,2 +1,0 @@
-phrase="bedo";
-alert(`**${phrase}**`);
