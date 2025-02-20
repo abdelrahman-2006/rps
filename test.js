@@ -1,0 +1,2 @@
+phrase="bedo";
+alert(`**${phrase}**`);
