@@ -71,6 +71,12 @@ button {
     padding-bottom: 1%;
     padding-left: 4%;
     padding-right: 4%;
+    transition:0.15sec;
+}
+button:hover {
+    pointer:cursor;
+    background:black;
+    color:white;
 }
 #choices {
     margin-left: -15%;
