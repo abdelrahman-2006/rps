@@ -78,6 +78,9 @@ button:hover {
     background:black;
     color:white;
 }
+button:active {
+background-color: rgb(35, 35, 35);
+}
 #choices {
     margin-left: -15%;
     padding-left: 20%;
